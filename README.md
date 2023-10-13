@@ -14,5 +14,3 @@ The backend uses an SQL database to store meeting notes and has three API endpoi
 - `GET  /note/:id` - Retrieve a note by ID.
 - `POST /note` - Create a new note (or update an existing one).
 - `GET  /images/:query` - Search for images by using the [Pexels API](https://www.pexels.com/api/).
-
-live@https://sameeranamarnath.github.io/meetingNotesTraacker/
