@@ -8,7 +8,7 @@ import (
 )
 
 var secrets struct {
-	PexelsApiKey string //set secret
+	PexelsApiKey string //set secret  one more
 }
 
 // Object that mirrors the response from the Pexels API.
