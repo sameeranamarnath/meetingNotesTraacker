@@ -9,13 +9,13 @@ const defaultContent = `
 # Markdown Meeting Note
 
 *Date:* ${new Date().toLocaleDateString()}
-*Note taker:* Simon Johansson
-*Attendees:* Marcus, Johan, Erik
+*Note taker:* EvesDropp err
+*Attendees:*Amar
 
 ---
 
-Write your notes in **markdown** to make pretty meeting notes.
-After saving the document you will get a link that you can share.
+Add notes in Markdown or plain text, as you see fit,
+link will be provided on saving for sharing
 
 `;
 
